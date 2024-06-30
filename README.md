@@ -26,7 +26,8 @@ This project is a Python script designed to automate the backup process for a da
 
 2. Install the required Python packages:
     ```sh
-    pipenv install    ```
+    pipenv install
+    ```
 
 3. Create a `config.ini` file with your configuration:
     ```ini
