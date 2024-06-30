@@ -8,7 +8,7 @@ This project is a Python script designed to automate the backup process for a da
 - Connects to the PostgreSQL database and creates a backup
 - Archives the backup file to optimize storage size
 - Encrypts the archived backup for security
-- Uploads the encrypted backup to AWS S3 (or other cloud storage solutions with minor modifications)
+- Uploads the encrypted backup to AWS S3
 
 ## Prerequisites
 
